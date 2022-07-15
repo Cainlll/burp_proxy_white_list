@@ -4,7 +4,9 @@
 
 
 ```
-
+127.0.0.1
+::1
+localhost
 
 *.ip138.com
 *.google.com
